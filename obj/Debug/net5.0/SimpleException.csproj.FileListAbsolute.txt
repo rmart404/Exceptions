@@ -1,0 +1,16 @@
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\SimpleException.exe
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\SimpleException.deps.json
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\SimpleException.runtimeconfig.json
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\SimpleException.runtimeconfig.dev.json
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\SimpleException.dll
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\ref\SimpleException.dll
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\bin\Debug\net5.0\SimpleException.pdb
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.csproj.AssemblyReference.cache
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.AssemblyInfoInputs.cache
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.AssemblyInfo.cs
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.dll
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\ref\SimpleException.dll
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.pdb
+C:\Users\Ray\Projects\05-Exceptions\SimpleException\obj\Debug\net5.0\SimpleException.genruntimeconfig.cache
